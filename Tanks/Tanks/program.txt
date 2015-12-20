@@ -1,0 +1,14 @@
+new tank A;
+new Tank B;
+new Tank C;
+new Tank D;
+
+A.position = 500, 100;
+B.position = 100, 400;
+C.position = 300, 200;
+D.position = 200, 500;
+
+A.behavior = ATTACK;
+B.behavior = ATTACK;
+C.behavior = ATTACK;
+D.behavior = ATTACK;

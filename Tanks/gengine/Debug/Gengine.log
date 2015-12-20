@@ -1,0 +1,29 @@
+﻿Build started 12/19/2015 5:33:10 PM.
+     1>Project "C:\Users\Oliver\Desktop\Tanks\gengine\gengine.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\gengine.pdb" /Gd /TP /analyze- /errorReport:prompt SpriteBatch.cpp
+         SpriteBatch.cpp
+     1>c:\users\oliver\desktop\tanks\gengine\spritebatch.cpp(105): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\oliver\desktop\tanks\gengine\spritebatch.cpp(135): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\oliver\desktop\tanks\gengine\spritebatch.cpp(169): warning C4018: '<': signed/unsigned mismatch
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\Oliver\Desktop\Tanks\Debug\gengine.lib" /NOLOGO Debug\Camera2D.obj
+         Debug\Errors.obj
+         Debug\gengine.obj
+         Debug\GLSLProgram.obj
+         Debug\ImageLoader.obj
+         Debug\InputManager.obj
+         Debug\IOManager.obj
+         Debug\picoPNG.obj
+         Debug\ResourceManager.obj
+         Debug\Sprite.obj
+         Debug\SpriteBatch.obj
+         Debug\TextureCache.obj
+         Debug\Timing.obj
+         Debug\Window.obj
+         gengine.vcxproj -> C:\Users\Oliver\Desktop\Tanks\Debug\gengine.lib
+     1>Done Building Project "C:\Users\Oliver\Desktop\Tanks\gengine\gengine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.59
